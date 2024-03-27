@@ -21,7 +21,8 @@ const config = {
       colors: {
         pokemonlogored: "#FF0000",
         pokemonlogored2: "#CC0000",
-        pokemonlogoblue: "#3B4CCA",
+        pokemonlogoblue: "#2a75bb",
+        pokemonlogobluedark: "#3c5aa6",
         pokemonlogoyellow: "#FFDE00",
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
